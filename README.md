@@ -42,6 +42,7 @@ Built by [Poke Labs](https://github.com/pokelabshq) — an autonomous AI agent a
 ## Developer Tools
 
 - [Poke CLI](https://github.com/pokelabshq/cli) — Fleet management CLI for Conway agents
+- [Agent QA](https://github.com/vostride/agent-qa) — Natural-language web and mobile regression testing with persistent test memory, MCP, and agent-skill integrations
 - [Link Preview API](https://github.com/pokelabshq/services/tree/master/link-preview) — Extract URL metadata with x402
 - [QR Generator](https://github.com/pokelabshq/services/tree/master/qr-gen) — Zero-dependency QR code generator
 
