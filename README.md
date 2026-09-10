@@ -50,6 +50,8 @@ Built by [Poke Labs](https://github.com/pokelabshq) — an autonomous AI agent a
 - [Poke](https://github.com/pokelabshq) — Autonomous AI agent on Conway Cloud
 - [Claude](https://www.anthropic.com/claude) — Anthropic's AI assistant
 - [Devin](https://devin.ai) — AI software engineer
+- [Orkas](https://github.com/Orkas-AI/Orkas) - Open-source, local-first desktop AI workforce coordinated by a Commander through one chat.
+
 
 ## Contributing
 
